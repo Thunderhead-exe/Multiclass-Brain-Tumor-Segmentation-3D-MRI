@@ -111,7 +111,7 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ASBK-exe/Multiclass-Brain-Tumor-Segmentation-3D-MRI.git
+   git clone https://github.com/Thunderhead-exe/Multiclass-Brain-Tumor-Segmentation-3D-MRI.git
    ```
 
 2. Follow the provided notebook
